@@ -1,24 +1,6 @@
-# vue
+# 뷰동산
+#### vue.js 를 활용한 부동산 앱
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project setup
+yarn 1.22.19
+@vue/cli 5.0.8
